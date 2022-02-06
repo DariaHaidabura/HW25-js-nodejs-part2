@@ -1,0 +1,14 @@
+{
+  "name": "hw25-js-node-js-part2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dasha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
